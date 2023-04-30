@@ -10,6 +10,7 @@ I tagged forklifts and people in 3000 images. I developed forklift and human det
 ```
 !python detect.py --weights /content/best.pt --img 416 --conf 0.40 --source "/content/testVideo4.mp4"
 ```
+![image](https://user-images.githubusercontent.com/48186387/235376590-d4282565-1d1b-48fb-9345-64a4d969b3ff.png)
 
 
 
