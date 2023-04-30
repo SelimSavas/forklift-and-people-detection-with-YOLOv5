@@ -12,21 +12,7 @@ I tagged forklifts and people in 3000 images. I developed forklift and human det
 ```
 ![image](https://user-images.githubusercontent.com/48186387/235376590-d4282565-1d1b-48fb-9345-64a4d969b3ff.png)
 
-
-
-### Tagged Dataset
-
-
+**Tagged Dataset**
 I tagged the image data from ImageNet, Roboflow and Kaggle platform with MakeSense. You can use my  [Google Drive](https://drive.google.com/file/d/1b5-plGXRc4u5CjxOvDp3xEuAdsyA1eRs/view?usp=sharing) to download.
-
-**Data Distribution**
-
- ![image](https://user-images.githubusercontent.com/48186387/235375937-7ae9f4dc-501c-4037-8678-60f9116e64c4.png)
-
-
-
-### Flow Chart Diagram
-![AkisDiyagrami](https://user-images.githubusercontent.com/48186387/235375838-95dd3210-bbdc-4d07-9a80-fe2892fe9b93.jpg)
-
 
 
