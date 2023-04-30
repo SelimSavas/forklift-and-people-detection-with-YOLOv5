@@ -1,0 +1,5 @@
+train: ../input/dataforkliftv10/dataforkliftv10/train/images
+val: ../input/dataforkliftv10/dataforkliftv10/valid/images
+
+nc: 2
+names: ['forklift', 'person']
